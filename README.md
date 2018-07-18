@@ -6,5 +6,5 @@ Vagrant 运行图形化应用的研究，利用 X11 转发来实现快速创建�
 
 ## 依赖
 
-Vagrant >= 2.0
-XQuartz(Only OSX)
+- Vagrant >= 2.0
+- XQuartz(Only OSX)
